@@ -10,3 +10,5 @@ LEVEL UP 的第一个项目活动，灵感来源 [举牌小人](http://upuptoyou
 * [需求文档](./docs/PRD.md)
 * [领取说明](./docs/RECEIVE.md)
 * [教程学习](./docs/STUDY.md)
+
+注意 图片资源在 ** ./design/res/img ** 里
